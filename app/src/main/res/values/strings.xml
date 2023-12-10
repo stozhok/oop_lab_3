@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Battleships</string>
+    <string name="place_ships">Place Ships</string>
+    <string name="start_game">Start Game</string>
+    <string name="place_ship_info">Place all five ship sizes (5, 4, 3, 3, 2). Single-click to place a ship vertically starting from the top of the ship to the bottom,
+        double-click to place a ship horizontally starting from the left to the right. Ships cannot be placed out of bounds or overlap other ships.</string>
+    <string name="guess_a_cell">Guess Opponents Ships</string>
+    <string name="game_title">HOW TO PLAY:</string>
+    <string name="game_desc">Tap/click on a cell on the bottom grid to try to guess the location of the opponent\'s ships.
+        The opponent will then make a move on their board in the top left to try to guess the location of your ships. The first to sink the others five ships wins!</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <declare-styleable name="GridView">
+        <attr name="exampleString" format="string" />
+        <attr name="exampleDimension" format="dimension" />
+        <attr name="exampleColor" format="color" />
+        <attr name="exampleDrawable" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="GridViewBase">
+        <attr name="gridBackgroundColor" format="color"/>
+        <attr name="gridLineColor" format="color"/>
+        <attr name="gridLineWidth" format="dimension"/>
+    </declare-styleable>
+</resources>
